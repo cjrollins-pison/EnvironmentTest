@@ -1,3 +1,3 @@
 This is a test
 
-This is Prod
+This is an environment variable: Stage
